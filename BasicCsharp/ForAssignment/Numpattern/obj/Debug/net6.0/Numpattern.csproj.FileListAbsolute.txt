@@ -1,0 +1,15 @@
+C:\Users\SudharsanKarthikeyan\OneDrive - Syncfusion\Desktop\C#\ForAssignment\Numpattern\bin\Debug\net6.0\Numpattern.exe
+C:\Users\SudharsanKarthikeyan\OneDrive - Syncfusion\Desktop\C#\ForAssignment\Numpattern\bin\Debug\net6.0\Numpattern.deps.json
+C:\Users\SudharsanKarthikeyan\OneDrive - Syncfusion\Desktop\C#\ForAssignment\Numpattern\bin\Debug\net6.0\Numpattern.runtimeconfig.json
+C:\Users\SudharsanKarthikeyan\OneDrive - Syncfusion\Desktop\C#\ForAssignment\Numpattern\bin\Debug\net6.0\Numpattern.dll
+C:\Users\SudharsanKarthikeyan\OneDrive - Syncfusion\Desktop\C#\ForAssignment\Numpattern\bin\Debug\net6.0\Numpattern.pdb
+C:\Users\SudharsanKarthikeyan\OneDrive - Syncfusion\Desktop\C#\ForAssignment\Numpattern\obj\Debug\net6.0\Numpattern.csproj.AssemblyReference.cache
+C:\Users\SudharsanKarthikeyan\OneDrive - Syncfusion\Desktop\C#\ForAssignment\Numpattern\obj\Debug\net6.0\Numpattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SudharsanKarthikeyan\OneDrive - Syncfusion\Desktop\C#\ForAssignment\Numpattern\obj\Debug\net6.0\Numpattern.AssemblyInfoInputs.cache
+C:\Users\SudharsanKarthikeyan\OneDrive - Syncfusion\Desktop\C#\ForAssignment\Numpattern\obj\Debug\net6.0\Numpattern.AssemblyInfo.cs
+C:\Users\SudharsanKarthikeyan\OneDrive - Syncfusion\Desktop\C#\ForAssignment\Numpattern\obj\Debug\net6.0\Numpattern.csproj.CoreCompileInputs.cache
+C:\Users\SudharsanKarthikeyan\OneDrive - Syncfusion\Desktop\C#\ForAssignment\Numpattern\obj\Debug\net6.0\Numpattern.dll
+C:\Users\SudharsanKarthikeyan\OneDrive - Syncfusion\Desktop\C#\ForAssignment\Numpattern\obj\Debug\net6.0\refint\Numpattern.dll
+C:\Users\SudharsanKarthikeyan\OneDrive - Syncfusion\Desktop\C#\ForAssignment\Numpattern\obj\Debug\net6.0\Numpattern.pdb
+C:\Users\SudharsanKarthikeyan\OneDrive - Syncfusion\Desktop\C#\ForAssignment\Numpattern\obj\Debug\net6.0\Numpattern.genruntimeconfig.cache
+C:\Users\SudharsanKarthikeyan\OneDrive - Syncfusion\Desktop\C#\ForAssignment\Numpattern\obj\Debug\net6.0\ref\Numpattern.dll
